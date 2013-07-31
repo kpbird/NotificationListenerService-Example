@@ -1,0 +1,17 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375170428000 412 f25b63b9a576c11b1db0e0853da1b04c3446e766 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$layout.class
+1375250358000 3122 e29c2d33ba54303e4deadf4c9eb9111a9bd0fd5f /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/MainActivity.class
+1375250358000 1431 cdabf3e53693cb525912f52dfbf9751d9982596c /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/MainActivity$NotificationReceiver.class
+1375164290000 470 0ac56542361eaf4a384252a462093c283077f732 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$dimen.class
+1375170428000 440 c4f2a56855fab39b4c8b4ffcbf293a59c3a270a5 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$style.class
+1375170428000 481 54b6a47bf14912396a9ba25691b0f71adafcaa53 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$string.class
+1375170428000 397 f9ea3c06ac4ead78f7627ce3b33b8b1f68444075 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$menu.class
+1375162055000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375164290000 349 9ab8715899380ae21d8019d5077ec98889ce1939 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$attr.class
+1375170428000 707 6ea402bf329e11fc75019c616a6f29481710dfc9 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R.class
+1375170428000 464 a53beeef986c2bcaa1a88b8d74148d9347062100 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$id.class
+1375164290000 416 a40037e4d49575d08c237f1a6d432ad9b21e3ed5 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/R$drawable.class
+1375191902000 2091 667ee4157f3e98e630c4b5578a9a852772c2ecca /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/NLService.class
+1375164290000 351 3bf72210165ed38c242c55ea6992013c248bb2a3 /Users/indianic/AndroidStudioProjects/NLSExampleProject/NLSExample/build/classes/debug/com/kpbird/nlsexample/BuildConfig.class
