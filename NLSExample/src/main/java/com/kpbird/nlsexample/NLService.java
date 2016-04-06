@@ -11,20 +11,20 @@ import android.util.Log;
 public class NLService extends NotificationListenerService {
 
     private String TAG = this.getClass().getSimpleName();
-    private NLServiceReceiver nlservicereciver;
+    private NLServiceReceiver nlservicereceiver;
     @Override
     public void onCreate() {
         super.onCreate();
-        nlservicereciver = new NLServiceReceiver();
+        nlservicereceiver = new NLServiceReceiver();
         IntentFilter filter = new IntentFilter();
         filter.addAction("com.kpbird.nlsexample.NOTIFICATION_LISTENER_SERVICE_EXAMPLE");
-        registerReceiver(nlservicereciver,filter);
+        registerReceiver(nlservicereceiver,filter);
     }
 
     @Override
     public void onDestroy() {
         super.onDestroy();
-        unregisterReceiver(nlservicereciver);
+        unregisterReceiver(nlservicereceiver);
     }
 
     @Override
@@ -48,7 +48,7 @@ public class NLService extends NotificationListenerService {
         sendBroadcast(i);
     }
 
-    class NLServiceReceiver extends BroadcastReceiver{
+    class NLServiceReceiver extends BroadcastReceiver {
 
         @Override
         public void onReceive(Context context, Intent intent) {
